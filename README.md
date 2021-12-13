@@ -23,7 +23,7 @@ Vous trouverez ici toutes les informations et les ressources nécessaires pour s
 
 
 
-* Vous trouverez l'**image** proposée dans le dossier "images".
+* Vous trouverez l'**image** ("tim.jpg") pour le background du quiz.
 
 
 
