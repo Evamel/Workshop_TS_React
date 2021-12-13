@@ -2,6 +2,9 @@
 
 ## Création d'un quiz en Typescript et React
 
+![Capture de l'app terminée](tim.jpg)
+
+
 Vous trouverez ici toutes les informations et les ressources nécessaires pour suivre le workshop ainsi que l'image (libre de droits) que vous pouvez utiliser pour le background de votre Quiz.
 
 
