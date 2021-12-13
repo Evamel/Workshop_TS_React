@@ -8,13 +8,26 @@ Vous trouverez ici toutes les informations et les ressources nécessaires pour s
 
 # Ressources pour créer l'application :
 
-* Set up de Typescript avec React : https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+* Info sur le set up de Typescript avec React : https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
 
     Créer l'app avec la commande : `npx create-react-app name-of-app --template typescript`
 
+
+
+
 * Ici, une proposition de **font** que vous pouvez utiliser : https://fonts.google.com/specimen/Catamaran
 
+
+
+
 * Vous trouverez l'**image** proposée dans le dossier "images".
+
+
+
+* API pour les questions / réponses : https://opentdb.com/api_config.php
+
+
+
 
 * Informations sur le DOMPurify : https://www.npmjs.com/package/dompurify
 
@@ -25,4 +38,5 @@ Vous trouverez ici toutes les informations et les ressources nécessaires pour s
 # Ressources supplémentaires :
 
 * https://react-typescript-cheatsheet.netlify.app/
-* 
+* https://www.typescriptlang.org/
+* https://www.jesuisundev.com/comprendre-typescript-en-5-minutes/
