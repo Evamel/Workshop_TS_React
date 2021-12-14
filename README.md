@@ -1,4 +1,4 @@
-# Workshop du 16 décembre
+# Workshop du 16 décembre 2021
 
 ## Création d'un quiz en Typescript et React
 
@@ -43,3 +43,5 @@ Vous trouverez ici toutes les informations et les ressources nécessaires pour s
 * https://react-typescript-cheatsheet.netlify.app/
 * https://www.typescriptlang.org/
 * https://www.jesuisundev.com/comprendre-typescript-en-5-minutes/
+* https://blog.cellenza.com/developpement-specifique/web-developpement-specifique/introduction-a-typescript/
+* https://www.typescripttutorial.net/
